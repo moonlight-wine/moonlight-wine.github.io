@@ -4,7 +4,7 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[English CV [PDF]](https://github.com/Ronalchan/ronalchan.github.io/files/cv/Uva_Chen_Qian.pdf)
+[English CV [PDF]](files/cv/Uva_Chen_Qian.pdf)
 
 [Chinese CV [PDF]]()
 
