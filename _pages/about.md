@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae](files/cv/Uva_Chen_Qian.pdf))"
+title: "About me ([Curriculum Vitae](./files/cv/Uva_Chen_Qian.pdf))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
