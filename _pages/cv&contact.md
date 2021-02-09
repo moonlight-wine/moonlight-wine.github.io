@@ -8,6 +8,8 @@ author_profile: true
 
 [Chinese CV [PDF]](https://ronalchan.github.io/files/cv/钱晨_弗吉尼亚大学研究生.pdf)
 
+<iframe src="https://ronalchan.github.io/files/cv/钱晨_弗吉尼亚大学研究生.pdf" width="100%" height="768px"></iframe>
+
 # Contact
 School of Engineering and Applied Science, University of Virginia<br>
 Charlottesville, 22904, Virginia, USA<br>
